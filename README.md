@@ -13,7 +13,7 @@ Contributing: join our discord server for more details on how to contribute. We 
 
 ### Downloading the project
 1. Open command prompt and [navigate](https://www.howtogeek.com/659411/how-to-change-directories-in-command-prompt-on-windows-10/) to your preferred installation folder
-2. Enter `git clone https://github.com/AoTTG-2/Aottg2-Unity.git` (this is the official AoTTG2 link, use this one for the Prolonpo version - https://github.com/Prolonpo/Aottg2-Prolonpo.git)
+2. Enter `git clone https://github.com/AoTTG-2/Aottg2-Unity.git` (this is the official AoTTG2 link, it has the bandwidth needed to download all of the data, but make sure that when you commit the push that it goes to this fork and repo instead)
 3. Open Unity Hub, click Project -> Add, and select your git folder
 
 ### Keeping project updated
